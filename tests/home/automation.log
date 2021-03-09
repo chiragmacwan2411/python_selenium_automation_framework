@@ -1,9 +1,0 @@
-03/03/2021 01:55:25 PM: TestCaseStatus: - INFO Starting execution of TC :: test_invalid_login
-03/03/2021 01:55:25 PM: TestCaseStatus: - INFO *** VERIFICATION SUCCESSFUL ***inValid_login prevented and verified
-03/03/2021 01:55:25 PM: TestCaseStatus: - ERROR test_invalid_login--->TEST PASSED<---
-
-03/03/2021 01:55:25 PM: TestCaseStatus: - INFO Starting execution of TC :: test_valid_login
-03/03/2021 01:55:25 PM: TestCaseStatus: - ERROR *** VERIFICATION FAILED ***Valid_login verified :: if not first check if the expired credentials
-03/03/2021 01:55:26 PM: TestCaseStatus: - INFO Screenshot saved to dir /Users/chiragkumarmacwan/PycharmProjects/pythonSelenium_Automation_Framework/basePackage/../screenshots/Valid_login verified :: if not first check if the expired credentials.1614797725969.png
-03/03/2021 01:55:26 PM: TestCaseStatus: - ERROR test_valid_login--->TEST PASSED<---
-
